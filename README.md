@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Arashdeep Singh. 
 - 👀 I’m interested in working in AI & ML, C++, and front-end development.
 - 🌱 I’m currently learning python, C++, Javascript, and React.
-- 💞️ I’m looking to collaborate on projects a newbie can work on. I don't mind the type of project I work on right now, as I'm trying to learn as much as I can. I'll try my best to help
-- 📫 How to reach me - techWithArash@gmail.com
+- 📫 How to reach me - techWithArash@gmail.com 
+                      - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/techwitharash/)
+
 
 <!---
 ArashTechDev/ArashTechDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
