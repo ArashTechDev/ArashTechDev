@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arashdeep Singh. 
-- 👀 I’m interested in working in C#, python, and front-end development.
+- 👀 I’m interested in working in front-end and ML
 - 🌱 I’m currently learning python, C++, Javascript, and React.
 - 📫 How to reach me - techWithArash@gmail.com
                         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/techwitharash/)
